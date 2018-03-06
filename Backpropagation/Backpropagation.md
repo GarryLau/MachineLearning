@@ -53,6 +53,7 @@
 现在用更新后的权重重新计算前向传播：
 <div align=center><img src="http://img.blog.csdn.net/20180306194430968?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbGl1Z2FuNTI4/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width = 701 height = 550 alt="ellipse" align=center /></div><div align=center>图18 </div>
 由图18可知现在的预测值是<font color=blue>0.26</font>，比之前预测的<font color=blue>0.191</font>更靠近真实值。我们可以重复上述过程直到预测值和真实值之间的差异为零。
+
 ## 参考文献
 [Backpropagation Step by Step](http://hmkcode.github.io/ai/backpropagation-step-by-step/)
 <div align=center><img src="http://img.blog.csdn.net/2018030517011018?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbGl1Z2FuNTI4/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width = 384 height = 384 alt="ellipse" align=center /></div><div align=center></div>
