@@ -7,3 +7,4 @@ Algorithms about Machine Learning
 5. Adaboost；
 6. SVM；
 7. NaiveBayesClassifier；
+8. Backpropagation；
