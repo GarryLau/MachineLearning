@@ -8,3 +8,5 @@ Algorithms about Machine Learning
 6. SVM；
 7. NaiveBayesClassifier；
 8. Backpropagation；
+9. PCA;
+10. 
